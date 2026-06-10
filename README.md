@@ -5,6 +5,7 @@
 <p>
   <a href="mailto:lychungheang16@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0C827C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Chungheang0980"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ly-chungheang-306a9536b/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="./Chungheang_CV.pdf"><img src="https://img.shields.io/badge/VIEW_CV-D9AD55?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV"></a>
 </p>
 
@@ -132,6 +133,7 @@ Supported conference computers, projection, audio equipment, and live sessions.
 
 <a href="mailto:lychungheang16@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://github.com/Chungheang0980"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/ly-chungheang-306a9536b/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="./Chungheang_CV.pdf"><img src="https://img.shields.io/badge/RESUME-D9AD55?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 
 **Phnom Penh, Cambodia · +855 88 719 9719**
