@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="190" alt="Ly Chungheang">
-
 # LY CHUNGHEANG
-
-### Data Science Engineer · Machine Learning · Computer Vision
 
 <p>
   <a href="mailto:lychungheang16@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0C827C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Chungheang0980"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="./Chungheang_CV.pdf"><img src="https://img.shields.io/badge/VIEW_CV-D9AD55?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV"></a>
 </p>
+
+<a href="https://github.com/Chungheang0980">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;pause=1200&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Building+the+Future+with+Data;Data+Science+Engineering+Student;Machine+Learning+%26+Computer+Vision;Turning+Data+into+Real-World+Solutions" alt="Animated typing introduction">
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chungheang0980&color=0c827c&style=flat-square&label=PROFILE+VIEWS)
 
