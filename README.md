@@ -1,25 +1,15 @@
 <div align="center">
 
-<img src="./assets/header.png" width="100%" alt="Data science and machine learning banner">
+<img src="./assets/profile.jpg" width="190" alt="Ly Chungheang">
 
-<br>
+# LY CHUNGHEANG
 
-<img src="./assets/profile.jpg" width="170" alt="Ly Chungheang profile photo">
-
-# Hi, I'm Ly Chungheang
-
-### Data Science Engineering Student | Machine Learning | Computer Vision
+### Data Science Engineer · Machine Learning · Computer Vision
 
 <p>
-  <a href="mailto:lychungheang16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lychungheang16%40gmail.com-0C827C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Chungheang0980">
-    <img src="https://img.shields.io/badge/GitHub-Chungheang0980-071A2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="./Chungheang_CV.pdf">
-    <img src="https://img.shields.io/badge/Download-My_CV-D9AD55?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
+  <a href="mailto:lychungheang16@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0C827C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Chungheang0980"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="./Chungheang_CV.pdf"><img src="https://img.shields.io/badge/VIEW_CV-D9AD55?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV"></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chungheang0980&color=0c827c&style=flat-square&label=PROFILE+VIEWS)
@@ -30,171 +20,120 @@
 
 ## About Me
 
-I am a fourth-year **Data Science Engineering** student at the
-**Institute of Technology of Cambodia**, with an expected graduation date of
-August 2027.
+Fourth-year **Data Science Engineering** student at the **Institute of Technology
+of Cambodia**, graduating in August 2027. I build practical systems in machine
+learning, computer vision, data engineering, and secure web development.
 
-- Building practical solutions with machine learning, data engineering, and computer vision
-- Experienced with OCR, forecasting, real-time data pipelines, and secure web systems
-- Interested in data science internships, research collaborations, and junior ML roles
+- Working with OCR, forecasting, real-time pipelines, and applied ML
+- Open to internships, research collaborations, and junior ML roles
 - Based in Phnom Penh, Cambodia
-- Languages: Khmer (native), English (upper-intermediate), and French (elementary)
+- Khmer (native) · English (upper-intermediate) · French (elementary)
 
 ---
 
-## Technical Skills
+## Tech Stack & Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,r,latex,tensorflow,pytorch,sklearn,opencv" alt="Programming and machine learning skills">
-</p>
+<details open>
+<summary><b>Artificial Intelligence & Data Science</b></summary>
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nextjs,nodejs,nestjs,html,css" alt="Web development skills">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,docker,git,github,vscode" alt="Database and development tools">
-</p>
+</details>
 
-| Area | Technologies |
-| --- | --- |
-| **Programming** | Python, JavaScript, SQL, R, LaTeX |
-| **Machine Learning** | Scikit-learn, PyTorch, TensorFlow, YOLOv8, CNN, CRNN |
-| **Computer Vision** | OCR, Tesseract, image processing, object detection |
-| **Data & Analytics** | Pandas, NumPy, Matplotlib, Power BI, Excel, statistics |
-| **Web & Systems** | FastAPI, Flask, Django, React, Next.js, Node.js, NestJS |
-| **Databases & Tools** | PostgreSQL, MongoDB, SQLite, Docker, Git, Jupyter, MLflow |
+<details>
+<summary><b>Web, Data & Tools</b></summary>
+<br>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</details>
 
 ---
 
 ## Featured Projects
 
-### Unemployment Prediction Using Economic Indicators
-
-Machine learning research project that predicts unemployment rates using economic
-and labor-market data covering more than 200 countries.
-
-- Engineered lag, rolling-average, GDP, and labor-force features
-- Compared regression and ensemble models
-- Achieved a best **R² score of 0.976**
-- Built visualizations for model performance and global unemployment trends
-
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-[View source code](https://github.com/Chungheang0980/Unemployment_Economic_Indicators)
-
-### Real-Time Stock Market Data Pipeline
-
-End-to-end stock market analytics and forecasting platform with real-time data
-collection, transformation, storage, APIs, and dashboards.
-
-- Built an ETL pipeline using data from the Finnhub API
-- Designed Bronze, Silver, and Gold warehouse layers
-- Added forecasting models with MLflow experiment tracking
-- Delivered monitoring and analysis through FastAPI and Streamlit
-
-**Tech:** Python, PySpark, PostgreSQL, FastAPI, Streamlit, MLflow, Docker
-
-[View source code](https://github.com/Chungheang0980/Stock_Market_realtime-)
-
-### Bank Transaction Scanner
-
-OCR-based full-stack system that identifies bank receipts and extracts structured
-transaction information.
-
-- Classified ABA and ACLEDA receipts using a CNN
-- Extracted transaction ID, date, amount, and currency
-- Built validation pipelines and report export
-- Selected as an outstanding project at the 14th Scientific Day Showcase
-
-**Tech:** Python, FastAPI, Next.js, TensorFlow, Tesseract OCR, MongoDB, Docker
-
-[View source code](https://github.com/chantharith-NY/Bank-Transaction-Scanner) ·
-[Video demo](https://drive.google.com/file/d/1JHiaJd2DK4XvmEBCEJ991nJBtzr4DUgR/view?usp=drive_link) ·
-[Poster](https://drive.google.com/file/d/1cEEC1kVl-bPMP6XwjZjKTbeGH_JgSaFp/view?usp=drive_link)
-
-### SecureBG Banking Web System
-
-Secure banking application with protected authentication and complete transaction
-workflows.
-
-- Implemented password hashing and role-based access control
-- Added deposits, withdrawals, transfers, and transaction history
-- Integrated fraud detection and audit logging
-
-**Tech:** Python, Flask, SQLite, Docker, XML-RPC, HTML, CSS, JavaScript
-
-[View source code](https://github.com/Chungheang0980/Banking-Security)
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Unemployment Prediction**](https://github.com/Chungheang0980/Unemployment_Economic_Indicators) | Forecasting research across 200+ countries with a best R² of **0.976** | Python, Scikit-learn, Pandas |
+| [**Real-Time Stock Pipeline**](https://github.com/Chungheang0980/Stock_Market_realtime-) | Bronze-to-Gold ETL, forecasting, APIs, and dashboards | PySpark, PostgreSQL, FastAPI, MLflow |
+| [**Bank Transaction Scanner**](https://github.com/chantharith-NY/Bank-Transaction-Scanner) | CNN receipt classification and OCR-based transaction extraction | TensorFlow, Tesseract, Next.js, MongoDB |
+| [**SecureBG Banking**](https://github.com/Chungheang0980/Banking-Security) | Secure banking workflows with fraud detection and audit logs | Flask, SQLite, Docker |
 
 ---
 
 ## Experience
 
-### Khmer OCR and Plate Recognition
-**ReDA Laboratory, ITC | June 2025 - August 2025**
+**Khmer OCR & Plate Recognition · ReDA Laboratory, ITC**<br>
+*June 2025 - August 2025*
 
-- Developed a Khmer license plate detection and OCR system for cars and motorbikes
-- Collected data in daylight, night, rain, and dusty conditions
-- Used YOLOv8 for detection and CRNN-Keras for Khmer and Latin character recognition
+Developed a license plate detection and OCR system using YOLOv8 and CRNN-Keras
+for Khmer and Latin characters across varied environmental conditions.
 
-### IT Support
-**22nd CamTESOL Conference | February 2025**
+**IT Support · 22nd CamTESOL Conference**<br>
+*February 2025*
 
-- Supported computers, projectors, audio equipment, speakers, and conference sessions
-- Monitored technical equipment and resolved issues during the event
+Supported conference computers, projection, audio equipment, and live sessions.
 
-### BACLL Organizer
-**ACU, Lycée Preah Angduong | August 2025**
+<details>
+<summary><b>Additional experience</b></summary>
+<br>
 
-- Assisted with registration, participant communication, and event logistics
+- **BACLL Organizer, ACU** · August 2025
+- **Volunteer Teaching Coordinator, TSK** · February 2024 - March 2024
 
-### Volunteer Teaching Coordinator
-**TSK, Phnom Penh | February 2024 - March 2024**
-
-- Taught self-reliance lessons about planning, goal setting, and problem-solving
+</details>
 
 ---
 
-## Education
+## Education & Certifications
 
-| Program | Institution | Year |
+| Education | Institution | Completion |
 | --- | --- | --- |
-| **Engineer, Data Science** | Institute of Technology of Cambodia | Expected August 2027 |
-| **Adults English Program** | Institute of Foreign Languages | Graduated March 2026 |
-| **High School Diploma** | Lycée Preah Angduong | Graduated 2022 |
+| **Engineer, Data Science** | Institute of Technology of Cambodia | August 2027 |
+| **Adults English Program** | Institute of Foreign Languages | March 2026 |
+| **High School Diploma** | Lycée Preah Angduong | 2022 |
+
+`Data Privacy Fundamentals` · `Python 101 for Data Science` ·
+`14th Scientific Day` · `BACLL Organizer` · `22nd CamTESOL Conference`
 
 ---
 
-## Certifications
-
-- Data Privacy Fundamentals
-- Python 101 for Data Science
-- 14th Scientific Day
-- BACLL Organizer - ACU
-- 22nd CamTESOL Conference
-
----
-
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chungheang0980&show_icons=true&theme=transparent&hide_border=true&title_color=0c827c&icon_color=d9ad55&text_color=4f6170" alt="Ly Chungheang's GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chungheang0980&layout=compact&theme=transparent&hide_border=true&title_color=0c827c&text_color=4f6170" alt="Most used languages">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Chungheang0980&show_icons=true&theme=transparent&hide_border=true&title_color=0c827c&icon_color=d9ad55" alt="GitHub statistics">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chungheang0980&layout=compact&theme=transparent&hide_border=true&title_color=0c827c" alt="Most used languages">
 
 </div>
 
 ---
 
-## Contact
-
-- **Email:** [lychungheang16@gmail.com](mailto:lychungheang16@gmail.com)
-- **Phone:** [+855 88 719 9719](tel:+855887199719)
-- **GitHub:** [github.com/Chungheang0980](https://github.com/Chungheang0980)
-- **Location:** Phnom Penh, Cambodia
+## Let's Connect
 
 <div align="center">
 
-### Thank you for visiting my profile.
+<a href="mailto:lychungheang16@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/Chungheang0980"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="./Chungheang_CV.pdf"><img src="https://img.shields.io/badge/RESUME-D9AD55?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+
+**Phnom Penh, Cambodia · +855 88 719 9719**
 
 </div>
