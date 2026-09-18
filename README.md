@@ -120,8 +120,8 @@ Supported conference computers, projection, audio equipment, and live sessions.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Chungheang0980&show_icons=true&theme=transparent&hide_border=true&title_color=0c827c&icon_color=d9ad55" alt="GitHub statistics">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chungheang0980&layout=compact&theme=transparent&hide_border=true&title_color=0c827c" alt="Most used languages">
+<a href="https://github.com/Chungheang0980"><img height="165" src="./assets/github-activity.svg" alt="GitHub activity"></a>
+<img height="165" src="./assets/tech-focus.svg" alt="Technology focus">
 
 </div>
 

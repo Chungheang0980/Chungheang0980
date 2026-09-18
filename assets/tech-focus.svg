@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="165" viewBox="0 0 330 165" role="img" aria-labelledby="title desc">
+  <title id="title">Technology focus</title>
+  <desc id="desc">Technology focus areas for Chungheang0980</desc>
+  <rect width="330" height="165" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="22" y="36" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="18" font-weight="700">Technology Focus</text>
+  <line x1="22" y1="52" x2="308" y2="52" stroke="#30363d"/>
+  <text x="22" y="82" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">Primary tools</text>
+  <text x="22" y="108" fill="#3776ab" font-family="Arial, sans-serif" font-size="17" font-weight="700">Python · SQL · PyTorch</text>
+  <text x="22" y="134" fill="#00c2ff" font-family="Arial, sans-serif" font-size="17" font-weight="700">FastAPI · Docker · Git</text>
+</svg>

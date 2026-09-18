@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="165" viewBox="0 0 495 165" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity</title>
+  <desc id="desc">GitHub profile card for Chungheang0980</desc>
+  <rect width="495" height="165" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="36" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="18" font-weight="700">GitHub Activity</text>
+  <line x1="24" y1="52" x2="471" y2="52" stroke="#30363d"/>
+  <text x="24" y="86" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">Building practical systems with</text>
+  <text x="24" y="111" fill="#00c2ff" font-family="Arial, sans-serif" font-size="17" font-weight="700">Data Science · Machine Learning</text>
+  <text x="24" y="136" fill="#d9ad55" font-family="Arial, sans-serif" font-size="17" font-weight="700">Computer Vision · Data Engineering</text>
+</svg>
