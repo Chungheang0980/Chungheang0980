@@ -1,6 +1,6 @@
 <div align="center">
 
-# LY CHUNGHEANG.
+# LY CHUNGHEANG
 
 <p>
   <a href="mailto:lychungheang16@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0C827C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
