@@ -23,7 +23,7 @@
 
 Fourth-year **Data Science Engineering** student at the **Institute of Technology
 of Cambodia**, graduating in August 2027. I build practical systems in machine
-learning, computer vision, data engineering, and secure web development.
+learning, computer vision, data engineering, and secure web development!.
 
 - Working with OCR, forecasting, real-time pipelines, and applied ML
 - Open to internships, research collaborations, and junior ML roles
